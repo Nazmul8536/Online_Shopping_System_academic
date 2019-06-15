@@ -5,6 +5,7 @@ Aurthor Email: ndr889571@gmail.com
 Website Link: nazmulhasan24.com
 Github Link: Github.com/Nazmul8536
 */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Roboto+Slab&display=swap');
 /* slider section css */
 
 .slides-navigation a.prev,
@@ -45,7 +46,7 @@ div.textMassage div.heading p.heading_main{
     color:#fff;
     font-size: 2.5em;
     letter-spacing: .4em;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto Slab', serif;
     text-transform: uppercase;
 
 }div.textMassage div.heading p.heading_sub{
@@ -65,5 +66,5 @@ div.textMassage div.heading p.heading_main{
 }
 .aboutSection h3,
 .aboutSection p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 }

@@ -8,7 +8,7 @@ $(document).ready(function(){
     // typeJs plugin
     var typed = new Typed(".typed", {
         // Waits 1000ms after typing "First"
-        strings: ["Web Designer.", "Web Developer.","Bitm Courses.","SEIP Courses.","PHP Developer","Laravel Developer","Javascript"],
+        strings: ["Web Designer.", "Web Developer.","Bitm Courses.","SEIP Courses.","PHP Developer.","Laravel Developer","Javascript"],
         'loop':true,
         'smartBackspace':true,
         'backSpeed':70,
